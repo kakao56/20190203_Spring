@@ -101,7 +101,6 @@ text-align: center;
 			<input type="hidden" value="${searchValue }" name="searchValue">
 		</div>
 	</form>
-	안녕하세요~~ hi ㅋㅋㅋㅋ pom.xml 복사 했습니다. 된거 같습니다. 진짭니다 재식작 안합니다. 인코딩 수정
-	호이 한번더 호이 한번하면 삭제가 되네요 두번째 입니다 삭제가 될까요?
+	안녕하세요~~
 </body>
 </html>
