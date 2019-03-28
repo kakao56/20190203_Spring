@@ -101,6 +101,6 @@ text-align: center;
 			<input type="hidden" value="${searchValue }" name="searchValue">
 		</div>
 	</form>
-	안녕하세요~~ hi
+	안녕하세요~~ hi ㅋㅋㅋㅋ
 </body>
 </html>
