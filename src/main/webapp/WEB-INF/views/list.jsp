@@ -101,6 +101,6 @@ text-align: center;
 			<input type="hidden" value="${searchValue }" name="searchValue">
 		</div>
 	</form>
-	안녕하세요~~ hi ㅋㅋㅋㅋ pom.xml 복사 했습니다. 된거 같습니다.
+	안녕하세요~~ hi ㅋㅋㅋㅋ pom.xml 복사 했습니다. 된거 같습니다. 진짭니다
 </body>
 </html>
