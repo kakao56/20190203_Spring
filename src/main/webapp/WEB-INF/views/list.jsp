@@ -101,6 +101,6 @@ text-align: center;
 			<input type="hidden" value="${searchValue }" name="searchValue">
 		</div>
 	</form>
-	webhook으로 보냅니다 한번더
+	두번째도 되나요??
 </body>
 </html>
