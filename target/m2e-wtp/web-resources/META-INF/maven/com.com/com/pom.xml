@@ -19,20 +19,21 @@
 
 	<repositories>
 		<repository>
-			<id>mesir-repo</id>
-			<url>https://maven.atlassian.com/3rdparty/</url>
+			<id>oracle</id>
+			<name>ORACLE JDBC Repository</name>
+			<url>http://maven.jahia.org/maven2</url>
 		</repository>
 	</repositories>
 
 	<dependencies>
 
 		<!-- oracle -->
+
 		<dependency>
 			<groupId>com.oracle</groupId>
-			<artifactId>ojdbc6</artifactId>
-			<version>12.1.0.1-atlassian-hosted</version>
+			<artifactId>ojdbc7</artifactId>
+			<version>12.1.0.2</version>
 		</dependency>
-
 		<!--MyBatis -->
 		<dependency>
 			<groupId>org.mybatis</groupId>
